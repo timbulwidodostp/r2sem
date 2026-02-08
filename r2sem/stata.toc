@@ -2,4 +2,4 @@
 1
 2
 3
-p robnova Calculates two robust ANOVA statistics, Welch's and Brown-Forsythe's Use robnova With STATA 19
+p r2sem Structural Equation Modeling Full Information Maximum Likelihood (SEM-FIML) Overall System R2 - Adjusted R2 - F Test - Chi2 Test Use r2sem With STATA 19
