@@ -1,0 +1,2 @@
+# r2sem
+Structural Equation Modeling Full Information Maximum Likelihood (SEM-FIML) Overall System R2 - Adjusted R2 - F Test - Chi2 Test Use r2sem With STATA 19
